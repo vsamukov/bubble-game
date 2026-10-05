@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Bloom",
+  "description": "An offline tactile web game where floating, wiggling bubbles burst on sharp taps and merge into colossal shapes with gentle movement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
